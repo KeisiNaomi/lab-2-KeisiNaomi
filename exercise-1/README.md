@@ -6,7 +6,7 @@ Escriba un programa que lea tres números enteros del teclado e imprima la suma,
 
 ```cmd
 Ingrese tres enteros diferentes: 13 27 14
-La suma is 54
+La suma es 54
 El promedio es 18
 El producto es 4914
 El más pequeño es 13
@@ -18,9 +18,12 @@ El más grande es 27
 1. Modifique su solución para usar tres declaraciones cin separadas en lugar de una. Escribe un mensaje separado para cada cin.
 
 2. ¿Importa si se usa < o <= al hacer comparaciones para determinar el número entero más pequeño? ¿Cuál usaste y por qué?
+Si importa si se usa < o <= en las comparaciones: se usa < cuando solo nos interesa cuál es estrictamnete menor, en cambio con <= obtenemos el mismo resultado pero puede haber empates. Yo use < porque es más claro para el propósito y evita que varias condiciones se cumplan a la vez
 
 3. En el programa, probablemente usó una variable double o float para almacenar el promedio. Cambie el tipo de esa variable a entero. ¿El resultado es diferente de lo que observó anteriormente?
+Si, ya que solo se muestra la parte entera del resultado
 
 ## ✅ Resultado
 
 (Añadir captura de pantalla del resultado de la ejecución)
+![alt text](image.png)

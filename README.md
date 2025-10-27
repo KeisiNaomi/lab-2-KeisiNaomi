@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Keisi Naomi Benitez Amor
+- Matrícula: S25018120
+- Fecha: 26 de octubre del 2025
 
 ## 🎯 Objetivos
 
